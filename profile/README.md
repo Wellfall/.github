@@ -1,48 +1,31 @@
-# 🧠 Wellfall
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/wellfall-banner-dark.png">
+  <img alt="Wellfall: websites and apps, made with care." src="https://zupimages.net/up/26/46/fevd.png">
+</picture>
 
-**Efficiency, by Wellfall — When mastery becomes the standard.**
+<br>
 
----
+Wellfall is a studio that designs and ships websites, applications and tools. From the first screen to maintenance, one team.
 
-## 🚀 About
+## How it works
 
-**Wellfall** is a digital engineering collective focused on crafting reliable, high-quality solutions with precision and purpose.  
-Our approach combines technical excellence, thoughtful design, and a clear commitment to delivering on time.
+Everything is written, signed and tracked in your client space.
 
-We offer a variety of digital services — from web development and automation tools to infrastructure design and scalable API systems.  
-Each project is built with care to ensure performance, clarity, and long-term reliability.
+1. Your request: a title, your project in detail, your budget and your deadlines.
+2. The quote: detailed, signed online, payable in 1 to 4 interest-free instalments.
+3. Tracking: milestones, discussion and invoices in one place.
+4. Delivery: access to the repository or files to download, then your review.
 
-👉 Learn more at [**wellfall.com**](https://wellfall.com)
+## Find us
 
----
+- Website: [wellfall.com](https://wellfall.com)
+- Services: [wellfall.com/services](https://wellfall.com/services)
+- Work: [wellfall.com/portfolio](https://wellfall.com/portfolio)
+- Community: [Discord](https://discord.gg/PvexC9k)
+- Contact: [contact@wellfall.com](mailto:contact@wellfall.com)
 
-## 💬 Our Philosophy
+## Start a project
 
-> *Build smart. Flow better.*
+Pick a service and request a quote: we reply with a detailed proposal.
 
-At Wellfall, we believe true efficiency comes from control —  
-when precision and consistency become second nature.
-
-- Quality over quantity  
-- Transparent collaboration  
-- Code built to last  
-- Deadlines that matter  
-
----
-
-## 🧩 Tech Mindset
-
-We adapt our stack to each challenge, embracing modern technologies that balance performance and maintainability.  
-Whether it’s a single-page product or a large-scale infrastructure, we build with intent and precision.
-
----
-
-## 🌐 Connect
-
-- Website → [**wellfall.com**](https://wellfall.com)  
-- Discord → [Join our community](#)  
-- Contact → [contact@wellfall.com](mailto:contact@wellfall.com)
-
----
-
-> 🖋️ *Wellfall — Efficiency, by design.*
+[Request a quote →](https://wellfall.com/services)
